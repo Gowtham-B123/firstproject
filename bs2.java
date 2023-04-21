@@ -5,8 +5,8 @@ public class bs2 {
         public static void main(String[] args) {
             int a =400;
             int b = 20;
-            int sum = a+b;
-            System.out.println(sum);
+            int multi = a*b;
+            System.out.println(multi);
         }
     }
 }
